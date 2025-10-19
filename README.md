@@ -64,6 +64,7 @@ Over the past year, I’ve gained practical experience in various aspects of **P
   <img src="https://img.shields.io/badge/Cordova-35495E?style=for-the-badge&logo=apachecordova&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -72,15 +73,15 @@ Over the past year, I’ve gained practical experience in various aspects of **P
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed59p&show_icons=true&theme=default" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed59p&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed59p&show_icons=true&theme=default&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed59p&theme=default&cache_seconds=1800" height="150"/>
 </p>
 
 ---
 
 ## 🤖 What I'm Currently Learning
 - **Generative AI** technologies to use in future projects.  
-- **Frontend development** using HTML, CSS, and JavaScript.  
+- **Frontend development** using HTML, CSS, JavaScript, and Bootstrap.  
 - **Backend development** using the **Flask** framework.  
 - Building **cross-platform applications**:
   - 🌍 Web apps  
