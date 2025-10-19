@@ -27,6 +27,7 @@
 - I’m **14 years old**, and I love building real-world solutions through programming.  
 - I started learning seriously a year ago and have since gained strong experience in **Python** and **problem-solving**.  
 - I’m continuously learning and aim to build all types of applications — **Web**, **Desktop**, and **Mobile**.  
+- I use **Linux** as my main operating system and love working with the **command line (CLI)**.  
 
 ---
 
@@ -34,32 +35,45 @@
 Over the past year, I’ve gained practical experience in various aspects of **Python** and related technologies:
 
 1. 🧩 **Core Python & Popular Modules:**  
-   `os`, `random`, `time`, `datetime`, `turtle`, `gtts`, `pyttsx3`, `pillow`, `qrcode`  
+   `os`, `random`, `time`, `datetime`, `turtle`, `gtts`, `pyttsx3`, `pillow`, `qrcode`
 2. 🧱 **Object-Oriented Programming (OOP)**  
-3. 📁 **Working with Files & Data:** `pandas`, `csv`, `json`  
-4. 💻 **Modern Desktop Apps** using `customtkinter`  
-5. 🗄️ **Database Management** with `sqlite3`  
-6. 🌐 **Web Scraping** using `BeautifulSoup`  
-7. 🧪 **Testing and Code Quality** using `pytest`, `pylint`  
-8. ⚙️ **Packaging and Building Executable Apps** using `pyinstaller`  
-9. 🚀 **Currently Learning:**  
-   `Flask`, `HTML`, `CSS`, `JavaScript`, `Generative AI`, `Cordova`, `pywebview`
+3. 🧠 **Linux & Command Line (CLI)**  
+4. 📁 **Working with Files & Data:** `pandas`, `csv`, `json`
+5. 💻 **Modern Desktop Apps** using `customtkinter`  
+6. 🗄️ **Database Management** with `sqlite3`  
+7. 🌐 **Web Scraping** using `BeautifulSoup`  
+8. 🧪 **Testing and Code Quality Tools:** `pytest`, `pylint`  
+9. ⚙️ **Packaging and Building Executable Apps** using `pyinstaller`  
+10. 💬 **Basic C Programming**  
+11. 🚀 **Currently Learning:**  
+    `Flask`, `HTML`, `CSS`, `JavaScript`, `Generative AI`, `Cordova`, `pywebview`
 
 ### 🧰 Languages & Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pylint-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CustomTkinter-1A1A1A?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyInstaller-1793D1?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyWebview-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-1A1A1A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pylint-003B57?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cordova-35495E?style=for-the-badge&logo=apachecordova&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed59p&show_icons=true&theme=default" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed59p&theme=default" height="150"/>
 </p>
 
 ---
@@ -90,6 +104,15 @@ I’m always open to connecting, discussing projects, and sharing knowledge 👋
   </a>
   <a href="https://wa.me/201004026608">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.facebook.com/bdalrhmnahmd.377455">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="www.linkedin.com/in/abdelrahman-ahmed-0b997b38a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AbdelrahmanAhmed59p">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
