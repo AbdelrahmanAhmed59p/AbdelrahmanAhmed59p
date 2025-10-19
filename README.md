@@ -40,8 +40,9 @@ Over the past year, I’ve gained practical experience in various aspects of **P
 4. 💻 **Modern Desktop Apps** using `customtkinter`  
 5. 🗄️ **Database Management** with `sqlite3`  
 6. 🌐 **Web Scraping** using `BeautifulSoup`  
-7. ⚙️ **Packaging and Building Executable Apps** using `pyinstaller`  
-8. 🚀 **Currently Learning:**  
+7. 🧪 **Testing and Code Quality** using `pytest`, `pylint`  
+8. ⚙️ **Packaging and Building Executable Apps** using `pyinstaller`  
+9. 🚀 **Currently Learning:**  
    `Flask`, `HTML`, `CSS`, `JavaScript`, `Generative AI`, `Cordova`, `pywebview`
 
 ### 🧰 Languages & Tools I Use
@@ -50,13 +51,15 @@ Over the past year, I’ve gained practical experience in various aspects of **P
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pylint-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CustomTkinter-1A1A1A?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyInstaller-1793D1?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyWebview-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cordova-35495E?style=for-the-badge&logo=apachecordova&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
