@@ -76,7 +76,7 @@ Over the past year, I’ve gained practical experience in various aspects of **P
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed59p&show_icons=true&theme=transparent" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanAhmed59p&theme=transparent" height="150" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed59p&theme=transparent" height="150" alt="GitHub Streak"/>
 </p>
 
 ---
