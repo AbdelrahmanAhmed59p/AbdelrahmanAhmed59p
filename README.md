@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- White background via table -->
+  <!-- Typing animation with white background -->
   <table>
     <tr>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px;">
@@ -48,9 +48,11 @@ Over the past year, I’ve gained practical experience in various aspects of **P
 11. 🚀 **Currently Learning:**  
     `Flask`, `HTML`, `CSS`, `JavaScript`, `Generative AI`, `Cordova`, `pywebview`
 
+---
+
 ### 🧰 Languages & Tools I Use
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -73,8 +75,8 @@ Over the past year, I’ve gained practical experience in various aspects of **P
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed59p&show_icons=true&theme=default&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed59p&theme=default&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed59p&show_icons=true&theme=transparent" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanAhmed59p&theme=transparent" height="150" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -99,7 +101,7 @@ Over the past year, I’ve gained practical experience in various aspects of **P
 ## 📬 Contact Me
 I’m always open to connecting, discussing projects, and sharing knowledge 👋  
 
-<p align="left">
+<p align="center">
   <a href="mailto:abdelrahman592011p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
